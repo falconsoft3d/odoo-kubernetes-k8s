@@ -1,0 +1,1 @@
+# odoo-kubernetes-k8s
